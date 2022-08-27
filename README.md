@@ -5,7 +5,7 @@ On 2009 I made a career shift to web development and started to code on the Linu
 Since then I've been focusing on **backend development with Python, Django, Flask and infrastructure automation** using shell scripts, Makefiles, Docker, Ansible and a little bit of Kubernetes.
 
 
-## What is available here
+## Projects available here
 
 I code and write A LOT on my spare time. My priorities are always changing, as I am curious and like tinkering with code and ricing my development workflow. Here's a summary:
 
