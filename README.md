@@ -7,9 +7,7 @@ Since then I've been focusing on **backend development with Python, Django, Flas
 
 ## What is available here
 
-I code and write A LOT on my spare time. My priorities are always changing, as I am curious and like tinkering with code and ricing my development workflow.
-
-So, here's a summary:
+I code and write A LOT on my spare time. My priorities are always changing, as I am curious and like tinkering with code and ricing my development workflow. Here's a summary:
 
 - **cookiecutters** for python scripts, flask and django.
 
