@@ -28,16 +28,6 @@ Feel free to browse any of them. If you want to ask anything, feel free to open 
 
 You can check that on [writeloop](https://writeloop.dev) - which is my second brain that is part of my development workflow and so, fully automated.
 
-
-## How to reach me
-
-[E-mail](tiagoprn@proton.me)
-
-[LinkedIn](http://br.linkedin.com/in/tiagoparanhoslima)
-
-[Twitter](https://twitter.com/writeloop)
-
-
 <!--
 **tiagoprn/tiagoprn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
