@@ -1,5 +1,3 @@
-### About me and this profile
-
 Linux is one of my core passions, since 1998 when I installed it on my first computer.
 
 On 2009 I made a career shift to web development and could turn entirely to the Linux ecosystem 24/7 (previously I was a MS-DOS / Windows desktop developer with Clipper / Delphi).
