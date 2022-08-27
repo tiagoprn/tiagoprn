@@ -1,8 +1,8 @@
-Linux is one of my core passions, since 1998 when I installed it on my first computer.
+On 1998 I installed Linux on my first computer and it gave me the insight of the endless possibilities that an open source ecosystem could provide.
 
-On 2009 I made a career shift to web development and could turn entirely to the Linux ecosystem 24/7 (previously I was a MS-DOS / Windows desktop developer with Clipper / Delphi).
+On 2009 I made a career shift to web development and started to code on the Linux ecosystem (previously I was a MS-DOS/Windows desktop developer with Clipper/Delphi).
 
-Since that big shift I've been focusing on backend development with Python, Django, Flask and infrastructure automation with Ansible.
+Since then I've been focusing on **backend development with Python, Django, Flask and infrastructure automation** using shell scripts, Makefiles, Docker, Ansible and a little bit of Kubernetes.
 
 
 ## What is available here
@@ -19,12 +19,12 @@ So, here's a summary:
 
 - [infrastructure automation scripts, configuration, etc](https://github.com/tiagoprn/devops).
 
-Feel free to browse any of them. If you want to ask anything, feel free to open a issue. I am also open to pull requests. ;)
+Feel free to browse any of them. **If you want to ask anything, go ahead and open an issue**. I also accept pull requests. ;)
 
 
 ## What I am learning
 
-You can check that on [writeloop](https://writeloop.dev) - which is my second brain that is part of my development workflow and so, fully automated.
+You can check that on [writeloop](https://writeloop.dev) - which is my second brain that is part of my development workflow and is fully automated.
 
 <!--
 **tiagoprn/tiagoprn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
