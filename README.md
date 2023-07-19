@@ -2,7 +2,7 @@ On 1998 I installed Linux on my first computer and it gave me the insight of the
 
 On 2009 I made a career shift to web development and started to code on the Linux ecosystem (previously I was a MS-DOS/Windows desktop developer with Clipper/Delphi).
 
-Since then I've been focusing on **backend development with Python, Django, Flask and infrastructure automation** using shell scripts, Makefiles, Docker, Ansible and a little bit of Kubernetes.
+Since then I've been focusing on **backend development with Python, Django, Flask and infrastructure automation** using shell scripts, Makefiles, Docker and Ansible.
 
 
 ## Projects available here
@@ -13,7 +13,7 @@ I code and write A LOT on my spare time. My priorities are always changing, as I
 
 - **python/django/flask projects**: Some I actively work on, and others not but are here so that they can be used as a reference for myself and anyone interested.
 
-- [my custom development workflow](https://github.com/tiagoprn/dot_files): neovim, tmux and bspwm customization using lua and shellscripts - 2 languages I also have fun working with.
+- [my custom development workflow](https://github.com/tiagoprn/pde.nvim): neovim customization using custom lua code and some shellscripts - 2 languages I also have fun working with.
 
 - [infrastructure automation scripts, configuration, etc](https://github.com/tiagoprn/devops).
 
